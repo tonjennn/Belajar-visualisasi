@@ -6,7 +6,7 @@ untuk datanya kalian bisa cari kaggle atau bebas tergantung kalian mau dimana
 
 ## 📸 Foto
 ![Data Anime ](SSvisual/data.png)
-![Hasil Visualisasi ](SSvisual/hasil.png)
+![Hasil Visualisasi ](SSvisual/hasil_visual.png)
 
 
 ## 📊 Fitur Dashboard
